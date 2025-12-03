@@ -1,0 +1,155 @@
+﻿species,site,count,group
+Autumnal rustic ,North,1,Moth
+Black rustic ,North,4,Moth
+Convolvulus hawk moth,North,1,Moth
+Garden dart,North,1,Moth
+Green carpet moth,North,1,Moth
+Heath rustic ,North,1,Moth
+Large pale masoner ,North,1,Moth
+Large yellow underwing,North,1,Moth
+Larval geometrid,North,1,Moth
+Mottled rustic,North,1,Moth
+Northern rustic ,North,1,Moth
+Small wainscot,North,2,Moth
+Square spot rustic ,North,10,Moth
+The anomalous,North,1,Moth
+Chestnut moth,South,1,Moth
+Common marbled carpet,South,2,Moth
+Dark winged fungus gnats ,South,1,Moth
+Green carpet moth,South,3,Moth
+Heath rustic ,South,1,Moth
+Mottled rustic,South,1,Moth
+Neglected rustic,South,1,Moth
+Pink barred sallow moth,South,1,Moth
+Small wainscot,South,3,Moth
+Square spot rustic ,South,12,Moth
+Agrostis capillaris,North,2,Plant
+Anthoxanthum odoratum,North,4,Plant
+Avenella flexuosa,North,10,Plant
+Calluna vulgaris,North,8,Plant
+Cerastium fontanum,North,1,Plant
+Deschampsia cespitosa,North,2,Plant
+Dicranum scoparium,North,2,Plant
+Digitalis purpurea,North,1,Plant
+Erica cinerea,North,9,Plant
+Galium mollugo,North,17,Plant
+Holcus lanatus,North,11,Plant
+Hypericum perforatum,North,1,Plant
+Juncus effusus,North,1,Plant
+Lonicera periclymenum,North,1,Plant
+Lysimachia nemorum,North,1,Plant
+Oxalis,North,1,Plant
+Potentilla erecta,North,9,Plant
+Pteridium aquilinum,North,17,Plant
+Ranunculus repens,North,3,Plant
+Rhytidadelphus triquetrus,North,18,Plant
+Rubus fruticosus L.,North,10,Plant
+Teucrium scorodonia,North,5,Plant
+Ulex europaeus,North,1,Plant
+Viola palustris,North,2,Plant
+Agrostis capillaris,South,7,Plant
+Carex,South,6,Plant
+Deschampsia cespitosa,South,5,Plant
+Galium saxatile,South,6,Plant
+Holcus lanatus,South,10,Plant
+Juncus effusus,South,2,Plant
+Juncus inflexus,South,1,Plant
+Myrica gale,South,1,Plant
+Nardus stricta,South,25,Plant
+Polytrichum commune,South,2,Plant
+Potentilla erecta,South,14,Plant
+Primula vulgaris,South,1,Plant
+Pteridium aquilinum,South,12,Plant
+Rhytidiadelphus triquetrus,South,2,Plant
+Sphagnum,South,1,Plant
+Trifolium repens,South,2,Plant
+Urtica dioica,South,2,Plant
+Viola palustris,South,2,Plant
+Ant,North,2,Invertebrate
+Aphid,North,1,Invertebrate
+Caddisfly case,North,1,Invertebrate
+Caddisfly larvae,North,1,Invertebrate
+Cased caddisfly larvae,North,5,Invertebrate
+Caseless caddisfly larvae,North,4,Invertebrate
+Cinnamon sedge caddisfly,North,1,Invertebrate
+Crane fly,North,10,Invertebrate
+Dragonfly larvae,North,2,Invertebrate
+Fly,North,3,Invertebrate
+Ground Beetle,North,7,Invertebrate
+Mayfly larvae,North,6,Invertebrate
+Money spider,North,1,Invertebrate
+Mosquito,North,1,Invertebrate
+Parasitic wasps,North,2,Invertebrate
+Scentless plant bugs,North,1,Invertebrate
+Stonefly larvae,North,7,Invertebrate
+Tick,North,6,Invertebrate
+True bug,North,7,Invertebrate
+Waterbeetle ,North,4,Invertebrate
+Waterbeetle larvae,North,1,Invertebrate
+Worm,North,7,Invertebrate
+Ant,South,5,Invertebrate
+Aphid,South,1,Invertebrate
+Blackfly larvae,South,2,Invertebrate
+Caddisfly case,South,4,Invertebrate
+Caddisfly larvae,South,1,Invertebrate
+Caterpillar,South,4,Invertebrate
+Cinnamon sedge caddisfly,South,1,Invertebrate
+Crane fly,South,18,Invertebrate
+Damselfly larvae,South,2,Invertebrate
+Diving beetle,South,1,Invertebrate
+Dor beetle,South,2,Invertebrate
+Dragonfly larvae,South,3,Invertebrate
+Drinker moth,South,1,Invertebrate
+Fly,South,23,Invertebrate
+Greater Water Boatman,South,2,Invertebrate
+Ground Beetle,South,0,Invertebrate
+Harverstman spider,South,1,Invertebrate
+Insect,South,19,Invertebrate
+Leaf curling sac spiders,South,1,Invertebrate
+Lesser Water Boatman,South,4,Invertebrate
+Mayfly larvae,South,4,Invertebrate
+Money spider,South,3,Invertebrate
+Mosquito,South,4,Invertebrate
+Spider,South,32,Invertebrate
+Springtail,South,1,Invertebrate
+Stonefly larvae,South,9,Invertebrate
+Thrip,South,1,Invertebrate
+Tick,South,167,Invertebrate
+True bug,South,8,Invertebrate
+Waterbeetle ,South,1,Invertebrate
+Waterbeetle larvae,South,1,Invertebrate
+White legged snake millipede,South,1,Invertebrate
+Woodland ground beetle,South,1,Invertebrate
+Worm,South,1,Invertebrate
+Badger,North,1,Mammal
+Domestic sheep,North,2,Mammal
+Red deer,North,3,Mammal
+Red squirrel,North,2,Mammal
+Domestic sheep,South,1,Mammal
+Red deer,South,3,Mammal
+Red squirrel,South,1,Mammal
+Eurasian skylark,North,3,Bird
+Meadow pipit,North,6,Bird
+Golden eagle,North,4,Bird
+Western jackdaw,North,16,Bird
+Common wood pigeon,North,16,Bird
+Carrion crow,North,2,Bird
+Eurasian blue tit,North,1,Bird
+European robin,North,1,Bird
+Common kestrel,North,1,Bird
+White wagtail,North,1,Bird
+Coal tit,North,1,Bird
+Song thrush,North,3,Bird
+Thrush,North,1,Bird
+Unidentified,North,1,Bird
+Long tailed tit,South,1,Bird
+Meadow pipit,South,9,Bird
+Golden eagle,South,2,Bird
+Eurasian treecreeper,South,1,Bird
+Common wood pigeon,South,5,Bird
+Common raven,South,4,Bird
+European robin,South,1,Bird
+Common kestrel,South,1,Bird
+Eurasian wren,South,5,Bird
+Song thrush,South,1,Bird
+Unidentified eggs,South,3,Bird

@@ -1,0 +1,8 @@
+---
+title: "README"
+output: html_document
+---
+
+R Project for an Ecological Impact Assessment that took place on the Isle of Arran
+Data collection occurred in September 2025 and all subsequent analyses occurred in the 
+latter part of 2025.
