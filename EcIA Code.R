@@ -50,12 +50,13 @@ ggplot(counts, aes(x=group, fill=site)) +
   # guides(fill="none")
 ## number of observations by "group" for the five main 
 ## classes at either site
+ggsave("figs/site_obs_by_class.png")
 
 ggplot(counts, aes(x=site, fill=group)) +
   geom_bar() + 
   labs(title="Observations by site",
        x="Class", y="Observations")
-
+ggsave("figs/site_obs.png")
 
 ### invertebrate boxplot ----
 ggplot(invert_frame, aes(x=site, y=count)) +
@@ -65,6 +66,7 @@ ggplot(invert_frame, aes(x=site, y=count)) +
        x="Site", y="Observations")
 ## invertebrate observations
 ## removes spiders and ticks from South slope as extreme outlier
+ggsave("figs/invert_obs.png")
 
 
 ### moth boxplot ----
@@ -74,6 +76,7 @@ ggplot(moth_frame, aes(x=site, y=count)) +
   labs(title="Moth numbers at both sites", 
        x="Site", y="Observations")
 ## adding limits discounts the Square Spot Rustic from both sides
+ggsave("figs/moth_obs.png")
 
 ### bird boxplot ----
 ggplot(bird_frame, aes(x=site, y=count)) +
@@ -82,6 +85,7 @@ ggplot(bird_frame, aes(x=site, y=count)) +
   labs(title="Bird numbers at both sites", 
        x="Site", y="Observations")
 ## limits remove Jackdaw and Pigeon from the North site
+ggsave("figs/bird_obs.png")
 
 ### mammal boxplot (kind of useless) ----
 ggplot(mammal_frame, aes(x=site, y=count)) +
@@ -94,6 +98,7 @@ ggplot(mammal_frame, aes(x=site, fill=site)) +
   geom_bar() + guides(fill="none")+
   labs(title="Observation of Mammal species by site",
      x="Site", y="Observations")
+ggsave("figs/mam_obs.png")
 
 
 ### plant boxplot ----
@@ -103,6 +108,7 @@ ggplot(plant_frame, aes(x=site, y=count)) +
   labs(title="Plant numbers at both sites", 
        x="Site", y="Observations")
 ## adding limits removes Nardus grass observations from South slope
+ggsave("figs/plant_obs.png")
 
 ## barplots by class ----
 plant_bar<- ggplot(plant_frame, aes(x=site, fill=site)) +
@@ -123,3 +129,4 @@ invert_bar<- ggplot(invert_frame, aes(x=site, fill=site)) +
        x="Site", y="Observations")
 
 ggarrange(plant_bar, moth_bar, bird_bar, invert_bar, ncol=2, nrow=2, align="h")
+ggsave("figs/p_m_b_i_site_obs.png")

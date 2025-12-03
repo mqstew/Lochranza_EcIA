@@ -3,6 +3,15 @@ title: "README"
 output: html_document
 ---
 
+*** 
+## Lochranza Ecological Impact Assessment
+
 R Project for an Ecological Impact Assessment that took place on the Isle of Arran
-Data collection occurred in September 2025 and all subsequent analyses occurred in the 
-latter part of 2025.
+Data collection occurred in September 2025 and all subsequent analyses occurred in the latter part of 2025.
+
+The project focused on the idea of two sites that were proposed as locations for a Carbon Credit program.
+The two sites are the North and South slopes, these lie to the north and south of the Lochranza Field Centre
+To Assess which site was better suited to becoming a carbon credit, data was collected from each site. Data collection consisted of:
+* Desk-based assessment of the site and local area
+* Phase 1 habitat survey
+* Baseline ecological surveys of the two sites
